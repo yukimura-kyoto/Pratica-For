@@ -9,7 +9,7 @@ public class Ex02 {
 
         int numMaior=0,numMenor=0;
 
-        //Math.random()
+        //Math.random() se pa substitui o 5 pra isso pra ir uma quantidade N
         for (int i=0;i<=5;i++){
             System.out.println("Digite um numero");
             int a = sc.nextInt();
